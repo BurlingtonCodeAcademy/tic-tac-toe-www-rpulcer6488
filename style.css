@@ -14,8 +14,8 @@ h2 {
 }
 
 span{
-  font-size: 75px;
-  margin-top: 20px;
+  font-size: 50px;
+  margin-top: 10px;
 }
 
 div[id^="row-"] div {
@@ -53,4 +53,10 @@ div.board {
   width: 608px;
   overflow: hidden;
   margin: 0 auto;
+}
+
+.cell {
+  font-size: 64px;
+  /* vertical-align: middle; */
+  /* vertical-align: middle; */
 }
